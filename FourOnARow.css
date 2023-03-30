@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(154, 84, 235);
+    overflow: hidden;
+    margin: 0;
+
+
+}
+
+canvas{
+    background-color: #5bb9ad; 
+}
+
+#canvasDiv{
+    align-self: center;
+    display: flex;
+    justify-content: center;
+}
+
